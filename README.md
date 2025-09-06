@@ -33,7 +33,7 @@ It combines Pivot Tables, charts, and interactive filters to help decision-maker
 
 ## 🔹 Preview
 Here is a snapshot of the dashboard:  
-![Sales Dashboard](dashboard.png)  
+![dashboard.png](dashboard.png)  
 
 ## 🔹 How to Use
 1. Download and open data.xlsx in Microsoft Excel (2016 or later recommended).  
